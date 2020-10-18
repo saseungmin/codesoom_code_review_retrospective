@@ -7,3 +7,5 @@
 #### [📚 2주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_2)
 
 #### [📚 3주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_3)
+
+#### [📚 4주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_4)
