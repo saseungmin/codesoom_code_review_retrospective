@@ -1,6 +1,6 @@
 ## ✌ CodeSoom Code Review
 - CodeSoom 2기에서 받은 코드리뷰 및 참고사항을 정리하는 저장소입니다.
-- 매주 회고글을 남깁니다.
+- 매주 회고글을 작성합니다.
 
 #### [📚 1주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_1)
 
@@ -11,3 +11,5 @@
 #### [📚 4주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_4)
 
 #### [📚 5주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_5)
+
+#### [📚 6주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_6) - 작성 예정
