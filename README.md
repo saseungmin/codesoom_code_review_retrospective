@@ -12,4 +12,4 @@
 
 #### [📚 5주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_5)
 
-#### [📚 6주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_6) - 작성 예정
+#### [📚 6주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_6)
