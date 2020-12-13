@@ -25,3 +25,5 @@
 #### [📚 10주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_10)
 
 #### [📚 11주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_11)
+
+#### [📚 12주차(마지막 주차) 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_12)
