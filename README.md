@@ -27,3 +27,8 @@
 #### [📚 11주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_11)
 
 #### [📚 12주차(마지막 주차) 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_12)
+
+
+#### 🌈 코드숨 2기 후기
+- [Tistory](https://haranglog.tistory.com/23)
+- [Velog](https://velog.io/@saseungmin/%EC%BD%94%EB%93%9C%EC%88%A8-2%EA%B8%B0-%EA%B7%B8-3%EB%8B%AC%EA%B0%84%EC%9D%98-%EC%97%AC%EC%A0%95)
