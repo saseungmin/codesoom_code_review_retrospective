@@ -19,7 +19,8 @@
 #### [📚 8주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_8)
 
 ### 🚀 9주차부터는 [개인 프로젝트](https://github.com/CodeSoom/project-react-2-saseungmin) 진행입니다.
-- URL 주소: https://sweet-1cfff.web.app/
+- URL 주소: https://sweet-1cfff.firebaseapp.com/
+
 #### [📚 9주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_9)
 
 #### [📚 10주차 정리 및 회고](https://github.com/saseungmin/codesoom_code_review_repository/tree/master/week_10)
